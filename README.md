@@ -7,7 +7,7 @@ This project demonstrates how to build a **subword-level transformer-based langu
 - 🌀 Top-k and Top-p sampling for generation
 - 🧪 WikiText-103 as source corpus
 
-![coder-Small.jpg](https://i.postimg.cc/NGKZx0R9/coder-Small.jpg)
+![coder-Small.jpg](assets/coder-small.jpeg)
 
 ### 📁 Project Structure
 
